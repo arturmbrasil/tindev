@@ -1,5 +1,4 @@
 .main-container {
-  position: relative;
   max-width: 980px;
   margin: 0 auto;
   padding: 50px 0;
@@ -118,10 +117,7 @@
 
 .logout-container {
   position: absolute;
-
-  padding: 60px 0;
-  top: 0px;
-  right: 0px;
+  top: 58px;
 }
 
 .logout-container button {
